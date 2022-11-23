@@ -1,0 +1,46 @@
+#table1,#table1 td,#table1 th{
+    text-align: center;
+    border: solid black;
+    height: auto;
+    margin: auto;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: chartreuse;
+    
+}
+#table1 td{
+  background-color: coral;
+}
+#table2 td:hover{
+  background-color: #0000ff;
+}#table1 td:hover{
+  background-color: #ce4031;
+}
+#table1 th:hover{
+  background-color: rgb(255, 255, 255);
+}
+#table2 th:hover{
+  background-color: white;
+}
+
+#table2,#table2 th,#table2 td{
+  text-align: center;
+  border: solid black;
+  height: auto;
+  margin: auto;
+  table-layout: fixed;
+  width: 100%;
+  background-color: #8888FF;
+}
+#table2 td{
+  background-color: aqua;
+}
+.head{
+  color: white;
+  background-color: rgb(75, 140, 0);
+  width: 400px;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 20px;
+}

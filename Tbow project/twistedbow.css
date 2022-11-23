@@ -1,0 +1,48 @@
+.divmenu {
+width: 800px;
+height: 1000px;
+background-color: rgb(101, 150, 29);
+margin-left: auto;
+border-radius: 10px;
+border: solid black;
+}
+img { 
+    max-width: 100%;
+    max-height: 100%;
+}
+.divpic {
+ width: 400px;
+ height: 200px; 
+ border: solid rgb(0, 0, 0);
+ width: 400px;
+ height: 250px;
+ border-radius: 40px;
+ margin: auto;
+ display: right;
+}
+
+.divname { 
+    color: black;
+    background: white;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    display: center;
+    border: solid black;
+    width: 100px;
+    height: 20px;
+    margin-left: 350px;
+    margin-bottom: 50px;
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+
+.divtext { 
+    margin-left: 10px;
+}
+
+.backgroundpic { 
+    background-image: url(cox.jpg);
+    background-size: cover;
+}
