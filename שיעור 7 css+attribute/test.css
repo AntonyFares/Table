@@ -1,0 +1,17 @@
+#bt0 {
+    color: aqua;
+    background-color: blue;
+  }
+#bt1 {
+    color: black;
+    background-color: blueviolet;
+  }
+  #bt0:hover{
+    color: chartreuse;
+    background-color: aliceblue;
+  }
+  
+  #bt1:hover{
+    color: chartreuse;
+    background-color: aliceblue;
+  }
